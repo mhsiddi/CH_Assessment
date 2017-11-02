@@ -1,0 +1,5 @@
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Core\bin\Debug\CH.Core.dll
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Core\bin\Debug\CH.Core.pdb
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Core\obj\Debug\CH.Core.csprojResolveAssemblyReference.cache
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Core\obj\Debug\CH.Core.dll
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Core\obj\Debug\CH.Core.pdb

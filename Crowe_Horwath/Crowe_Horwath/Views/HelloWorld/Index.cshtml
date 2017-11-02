@@ -1,0 +1,20 @@
+﻿@model IEnumerable<CH.Models.HelloWorldRequest>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+
+<body>
+    <div>
+    <div id="message">
+       @foreach (var item in Model)
+       {
+           <h4 style="text-align: center;"><b>@item.Message</b></h4>
+       }
+    </div>
+    </div>
+</body>
+</html>

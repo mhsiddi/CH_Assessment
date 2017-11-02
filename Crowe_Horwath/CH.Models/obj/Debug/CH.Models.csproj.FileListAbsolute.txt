@@ -1,0 +1,7 @@
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Models\bin\Debug\CH.Models.dll
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Models\bin\Debug\CH.Models.pdb
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Models\bin\Debug\Newtonsoft.Json.dll
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Models\bin\Debug\Newtonsoft.Json.xml
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Models\obj\Debug\CH.Models.csprojResolveAssemblyReference.cache
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Models\obj\Debug\CH.Models.dll
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Models\obj\Debug\CH.Models.pdb

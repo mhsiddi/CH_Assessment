@@ -1,0 +1,11 @@
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Repo\bin\Debug\CH.Repo.dll
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Repo\bin\Debug\CH.Repo.pdb
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Repo\bin\Debug\CH.Core.dll
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Repo\bin\Debug\CH.Models.dll
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Repo\bin\Debug\Newtonsoft.Json.dll
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Repo\bin\Debug\CH.Core.pdb
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Repo\bin\Debug\CH.Models.pdb
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Repo\bin\Debug\Newtonsoft.Json.xml
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Repo\obj\Debug\CH.Repo.csprojResolveAssemblyReference.cache
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Repo\obj\Debug\CH.Repo.dll
+c:\users\muhammad.siddiqui\documents\visual studio 2015\Projects\Crowe_Horwath\CH.Repo\obj\Debug\CH.Repo.pdb
