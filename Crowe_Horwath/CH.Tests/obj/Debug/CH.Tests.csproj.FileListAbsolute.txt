@@ -1,0 +1,16 @@
+C:\Users\muhammad.siddiqui\Documents\GitHub\CH_Assessment\Crowe_Horwath\CH.Tests\bin\Debug\CH.Tests.dll
+C:\Users\muhammad.siddiqui\Documents\GitHub\CH_Assessment\Crowe_Horwath\CH.Tests\bin\Debug\CH.Tests.pdb
+C:\Users\muhammad.siddiqui\Documents\GitHub\CH_Assessment\Crowe_Horwath\CH.Tests\bin\Debug\CH.Business.dll
+C:\Users\muhammad.siddiqui\Documents\GitHub\CH_Assessment\Crowe_Horwath\CH.Tests\bin\Debug\CH.Models.dll
+C:\Users\muhammad.siddiqui\Documents\GitHub\CH_Assessment\Crowe_Horwath\CH.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\muhammad.siddiqui\Documents\GitHub\CH_Assessment\Crowe_Horwath\CH.Tests\bin\Debug\CH.Repo.dll
+C:\Users\muhammad.siddiqui\Documents\GitHub\CH_Assessment\Crowe_Horwath\CH.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\muhammad.siddiqui\Documents\GitHub\CH_Assessment\Crowe_Horwath\CH.Tests\bin\Debug\CH.Core.dll
+C:\Users\muhammad.siddiqui\Documents\GitHub\CH_Assessment\Crowe_Horwath\CH.Tests\bin\Debug\CH.Business.pdb
+C:\Users\muhammad.siddiqui\Documents\GitHub\CH_Assessment\Crowe_Horwath\CH.Tests\bin\Debug\CH.Models.pdb
+C:\Users\muhammad.siddiqui\Documents\GitHub\CH_Assessment\Crowe_Horwath\CH.Tests\bin\Debug\CH.Repo.pdb
+C:\Users\muhammad.siddiqui\Documents\GitHub\CH_Assessment\Crowe_Horwath\CH.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\muhammad.siddiqui\Documents\GitHub\CH_Assessment\Crowe_Horwath\CH.Tests\bin\Debug\CH.Core.pdb
+C:\Users\muhammad.siddiqui\Documents\GitHub\CH_Assessment\Crowe_Horwath\CH.Tests\obj\Debug\CH.Tests.csprojResolveAssemblyReference.cache
+C:\Users\muhammad.siddiqui\Documents\GitHub\CH_Assessment\Crowe_Horwath\CH.Tests\obj\Debug\CH.Tests.dll
+C:\Users\muhammad.siddiqui\Documents\GitHub\CH_Assessment\Crowe_Horwath\CH.Tests\obj\Debug\CH.Tests.pdb
